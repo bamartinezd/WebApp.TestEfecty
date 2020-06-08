@@ -1,0 +1,11 @@
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.BL\bin\Debug\WebApp.TestEfecty.BackEnd.BL.dll
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.BL\bin\Debug\WebApp.TestEfecty.BackEnd.BL.pdb
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.BL\bin\Debug\WebApp.TestEfecty.BackEnd.Util.dll
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.BL\bin\Debug\WebApp.TestEfecty.BackEnd.Util.pdb
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.BL\obj\Debug\WebApp.TestEfecty.BackEnd.BL.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.BL\obj\Debug\WebApp.TestEfecty.BackEnd.BL.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.BL\obj\Debug\WebApp.TestEfecty.BackEnd.BL.csproj.CopyComplete
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.BL\obj\Debug\WebApp.TestEfecty.BackEnd.BL.dll
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.BL\obj\Debug\WebApp.TestEfecty.BackEnd.BL.pdb
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.BL\bin\Debug\WebApp.TestEfecty.BackEnd.DAL2.dll
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.BL\bin\Debug\WebApp.TestEfecty.BackEnd.DAL2.pdb

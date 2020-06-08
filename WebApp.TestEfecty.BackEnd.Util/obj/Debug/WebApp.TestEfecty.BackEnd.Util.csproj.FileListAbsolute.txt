@@ -1,0 +1,5 @@
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.Util\bin\Debug\WebApp.TestEfecty.BackEnd.Util.dll
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.Util\bin\Debug\WebApp.TestEfecty.BackEnd.Util.pdb
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.Util\obj\Debug\WebApp.TestEfecty.BackEnd.Util.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.Util\obj\Debug\WebApp.TestEfecty.BackEnd.Util.dll
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.Util\obj\Debug\WebApp.TestEfecty.BackEnd.Util.pdb

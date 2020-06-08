@@ -1,0 +1,6 @@
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.DAL2\bin\Debug\WebApp.TestEfecty.BackEnd.DAL2.dll
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.DAL2\bin\Debug\WebApp.TestEfecty.BackEnd.DAL2.pdb
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.DAL2\obj\Debug\WebApp.TestEfecty.BackEnd.DAL2.csprojAssemblyReference.cache
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.DAL2\obj\Debug\WebApp.TestEfecty.BackEnd.DAL2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.DAL2\obj\Debug\WebApp.TestEfecty.BackEnd.DAL2.dll
+C:\Users\aleja\source\repos\WebApp.TestEfecty.BackEnd.DAL2\obj\Debug\WebApp.TestEfecty.BackEnd.DAL2.pdb
